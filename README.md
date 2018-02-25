@@ -6,7 +6,7 @@
 <img src="https://github.com/hedongya/GOLDWIND/blob/master/部分样本参数.png" width = "800"><br>
 # 神经网络模型
 >计算模型为全连接神经网络，有两层隐藏层，每层有10个节点，如图所示。激活函数为Relu，优化算法为AdamOptimizer，时间步长为0.001，定义损失值为预测值与标准值的均方差。<br>
-<img src="https://github.com/hedongya/GOLDWIND/blob/master/全连接神经网络.png" width = "800"><br>
+<img src="https://github.com/hedongya/GOLDWIND/blob/master/全连接神经网络.png" width = "500"><br>
 # 训练结果
 >下图展示了两种误差标准下训练精度和验证精度的变化情况，可以发现，当误差标准为3%时，在第20000步左右，两种准确率都达到了100%，而当误差标准为1%时，在第25000步左右，两种准确率达到了80%左右，之后基本趋于直线，表明神经网络已经基本不在进行学习。<br>
 <img src="https://github.com/hedongya/GOLDWIND/blob/master/训练过程中准确率变化.png" width = "800"><br>
