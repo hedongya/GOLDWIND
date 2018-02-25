@@ -4,7 +4,6 @@
 <img src="https://github.com/hedongya/GOLDWIND/blob/master/data.png" width = "800"><br>
 <br>
 <img src="https://github.com/hedongya/GOLDWIND/blob/master/部分样本参数.png" width = "800"><br>
-<br>
 # 神经网络模型
 > 本节计算模型为全连接神经网络，有两层隐藏层，每层有10个节点，如图所示。激活函数为Relu，优化算法为AdamOptimizer，时间步长为0.001，定义损失值为预测值与标准值的均方差。<br>
 <br>
