@@ -12,9 +12,9 @@
 <img src="https://github.com/hedongya/GOLDWIND/blob/master/训练过程中准确率变化.png" width = "800"><br>
 下图为训练误差的变化情况，可以看到从第25000步开始，此误差趋于稳定，在11.5左右。由预测的结果可以看出本文的计算模型具有一定的可信度和有效性。<br>
 <img src="https://github.com/hedongya/GOLDWIND/blob/master/训练损失值变化.png" width = "800"><br>
-*容忍误差为3%的预测结果<br>
-<img src="https://github.com/hedongya/GOLDWIND/blob/master/容忍误差为3%时的预测结果.png" width = "800"><br>
+容忍误差为3%的预测结果<br>
+<img src="https://github.com/hedongya/GOLDWIND/blob/master/容忍误差为百分之三时的预测结果.png" width = "800"><br>
 *容忍误差为1%的预测结果<br>
-<img src="https://github.com/hedongya/GOLDWIND/blob/master/容忍误差为1%时的预测结果.png" width = "800"><br>
+<img src="https://github.com/hedongya/GOLDWIND/blob/master/容忍误差为百分之一时的预测结果.png" width = "800"><br>
 
 
