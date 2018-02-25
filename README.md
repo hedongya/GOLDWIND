@@ -1,2 +1,3 @@
 # GOLDWIND
-haha
+Trainning dat distribution
+
